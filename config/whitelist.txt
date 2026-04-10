@@ -10,20 +10,34 @@
 [KEYWORDS]
 # 以下区域是关键字白名单，某频道获取到的接口地址中含有指定关键字，则该接口会被加入该频道的白名单，多条记录换行输入。
 # This area is the keyword whitelist. If the interface address obtained by a certain channel contains the specified keyword, the interface will be added to the whitelist of the channel, with multiple records entered on new lines.
-163189.xyz
-4666888.xyz
-livelivelive.space
-xiazhix1.top
-hkstv.tv
-hqtvzb.com
-vzan.com
-eztv.vip
-jdshipin.com
-loc.cc
-akamaized.net
-61.184.46.85
-74.91.26.218
-freetv.fun
-165.154.226.214
-feilong123.vip
-8.138.7.223
+凤凰
+翡翠台
+TVB
+J2
+明珠台
+星河
+凤凰卫视
+香港卫视
+澳视
+Viu
+Now
+RTHK
+# --- 台湾核心频道 ---
+纬来
+民视
+中天
+台视
+中视
+华视
+公视
+三立
+年代
+东森
+TVBS
+# --- 常见直播源特征词（强制保留这些服务器的源） ---
+hkstv
+eztv
+freetv
+163189
+4666888
+livelivelive
